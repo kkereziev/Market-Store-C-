@@ -1,0 +1,13 @@
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.1\DiscountCards.exe
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.1\DiscountCards.deps.json
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.1\DiscountCards.runtimeconfig.json
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.1\DiscountCards.runtimeconfig.dev.json
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.1\DiscountCards.dll
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.1\DiscountCards.pdb
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.1\DiscountCards.csprojAssemblyReference.cache
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.1\DiscountCards.csproj.CoreCompileInputs.cache
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.1\DiscountCards.AssemblyInfoInputs.cache
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.1\DiscountCards.AssemblyInfo.cs
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.1\DiscountCards.dll
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.1\DiscountCards.pdb
+C:\Users\Krum\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.1\DiscountCards.genruntimeconfig.cache
