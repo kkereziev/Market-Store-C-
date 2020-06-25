@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Krum\\source\\repos\\DiscountCards\\DiscountCards\\DiscountCards.csproj": {}
+    "C:\\Users\\Krum\\Desktop\\.NET PROGRAMISTA;\\Market-Store-C-\\DiscountCards\\DiscountCards\\DiscountCards.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Krum\\source\\repos\\DiscountCards\\DiscountCards\\DiscountCards.csproj": {
+    "C:\\Users\\Krum\\Desktop\\.NET PROGRAMISTA;\\Market-Store-C-\\DiscountCards\\DiscountCards\\DiscountCards.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Krum\\source\\repos\\DiscountCards\\DiscountCards\\DiscountCards.csproj",
+        "projectUniqueName": "C:\\Users\\Krum\\Desktop\\.NET PROGRAMISTA;\\Market-Store-C-\\DiscountCards\\DiscountCards\\DiscountCards.csproj",
         "projectName": "DiscountCards",
-        "projectPath": "C:\\Users\\Krum\\source\\repos\\DiscountCards\\DiscountCards\\DiscountCards.csproj",
+        "projectPath": "C:\\Users\\Krum\\Desktop\\.NET PROGRAMISTA;\\Market-Store-C-\\DiscountCards\\DiscountCards\\DiscountCards.csproj",
         "packagesPath": "C:\\Users\\Krum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Krum\\source\\repos\\DiscountCards\\DiscountCards\\obj\\",
+        "outputPath": "C:\\Users\\Krum\\Desktop\\.NET PROGRAMISTA;\\Market-Store-C-\\DiscountCards\\DiscountCards\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Krum\\AppData\\Roaming\\NuGet\\NuGet.Config",

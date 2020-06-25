@@ -7,13 +7,11 @@ namespace DiscountCards
     public class GoldenCard : DiscountCard
     {
         private double _discount;
-        private double _turnover;
 
         public GoldenCard(string owner, int turnover)
             : base(owner, turnover)
         {
             this.DiscountRate = 2.0;
-            this._turnover = turnover;
         }
 
         public sealed override double DiscountRate
